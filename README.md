@@ -1,0 +1,7 @@
+Dot files
+
+Usage:
+
+```
+stow .
+```
